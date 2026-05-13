@@ -2,7 +2,9 @@
 
 ## Project Description
 
-A real-time, multimodal Computer Vision application that allows users to control computer presentations (PowerPoint, Keynote, Google Slides) using hand gestures.By leveraging Google's MediaPipe for sub-millisecond 3D hand-landmark detection and translating spatial coordinates into localized system commands, this system entirely removes the need for a physical clicker.
+A real-time, multimodal Computer Vision application that allows users to control computer presentations (PowerPoint, Keynote, Google Slides) using hand gestures.
+
+By leveraging Google's MediaPipe for sub-millisecond 3D hand-landmark detection and translating spatial coordinates into localized system commands, this system entirely removes the need for a physical clicker.
 
 ## Key Features
 
